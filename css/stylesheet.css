@@ -1,0 +1,72 @@
+header, footer {
+}
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Segoe UI, sans-serif;
+}
+
+.container {
+  width: 99%;
+  margin: 0 auto;
+  background-color: transparent;
+  padding: 5px;
+  padding-bottom: 900px;
+}
+
+header {
+  background-color: transparent;
+}
+
+header nav {
+  float: right;
+}
+
+header nav li {
+  display: inline;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.logo {
+  font-size: 35px;
+  color: white;
+  style:
+}
+
+a:-webkit-any-link {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.header-area {
+  border-bottom:1px solid #144674
+}
+
+.header-bottom {
+  padding: 10px 30px 10px 10px;
+}
+
+.search-area {
+  text-align: center;
+}
+
+.search-area span{
+  color:black;
+  font-size:16px;
+  display:block;
+  margin-bottom:24px;
+  font-weight:600;
+  padding-left:95px;
+  position:relative;
+}
+
+.main-pic {
+  background-image: url(../img/veg_garden.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
